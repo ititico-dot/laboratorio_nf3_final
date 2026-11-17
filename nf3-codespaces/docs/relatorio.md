@@ -1,6 +1,6 @@
 # Relatório NF3
-Equipe e contribuições:
-Data, versão MySQL e commit:
+Equipe e contribuições: Thiago Gonçalves & João Lucas
+Data, versão MySQL e commit: [vou preencher depois] [TODO]
 
 ## Modelagem e normalização
 Cardinalidades, chaves, dependências, formas normais e limitações das FKs.
